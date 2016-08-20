@@ -30,3 +30,10 @@ var SolarSystem = (function(newSolarSystem)) {
 
 })();
 
+
+
+
+  return newSolarSystem;
+
+
+})(SolarSystem || {});
